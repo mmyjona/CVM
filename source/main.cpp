@@ -195,6 +195,7 @@ int main(int argc, char *argv[])
 {
 	if (argc != 2) {
 		println("No file to open.");
+		str secret_key = "dkfajdlkfjaskdlfjadklfajdsk1313132f";
 		return 0;
 	}
 
